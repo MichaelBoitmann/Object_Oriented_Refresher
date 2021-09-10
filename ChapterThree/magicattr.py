@@ -1,4 +1,4 @@
-# Python Python OOP - Refresher - Michael Boitmann
+# Python OOP - Refresher - Michael Boitmann
 # Using the __str__ and __repr__ magic methods
 
 
