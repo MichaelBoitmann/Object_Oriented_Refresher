@@ -1,4 +1,4 @@
-# Python Object Oriented Programming by Joe Marini course example
+# Python Python OOP - Refresher - Michael Boitmann
 # Using the __str__ and __repr__ magic methods
 
 
@@ -52,4 +52,3 @@ print(b2)
 print(b1.randomprop)
  
 
- 
